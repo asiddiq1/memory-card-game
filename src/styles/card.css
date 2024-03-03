@@ -1,0 +1,22 @@
+.card{
+    background-color: rgba(0,0,0,.4);
+    color: #fff;
+    width: 150px;
+    height: 175px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 2px solid #365c87;
+    cursor: pointer;
+}
+
+.card > .pokemon-name{
+    top: 10px;
+}
+
+.pokemon-name{
+    color: white;
+    font-size: 1.5rem;
+}

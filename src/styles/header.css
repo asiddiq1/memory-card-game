@@ -1,0 +1,41 @@
+.logo img{
+    width: 10rem;
+    height: 4rem;
+}
+
+.logo{
+    padding: 0;
+    height: auto;
+}
+
+.title{
+    font-size: 2em;
+    margin: 0;
+    color: #FFCB05;
+    text-shadow: 3px 0 #3466AF,-3px 0 #3466AF,0 3px #3466AF,0 -3px #3466AF;
+}
+
+.info{
+
+    color: #FFCB05;
+    font-size: 1rem;
+
+}
+
+.header{
+    padding-bottom: 10px;
+}
+
+
+
+.scoreboard{
+    color: #FFCB05;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-bottom: 20px;
+    font-weight: 500;
+
+}
